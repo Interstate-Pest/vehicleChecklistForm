@@ -1,6 +1,6 @@
 ## IPM Vehicle Checklist
 
-For internetal use only.
+For internal use only.
 
 This is a checklist for technicians to complete monthly.<br>
 The checklist contains three main sections for the technician to fill out<br>
